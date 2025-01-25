@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/boplennon/MyStoryboardSDK.git', :tag => s.version }
 
   # Đảm bảo file xcframework được khai báo đúng
-  s.vendored_frameworks = 'MyStoryboardSDK.xcframework'
+  s.vendored_frameworks = 'arrow_framework.xcframework'
   s.platform     = :ios, '13.0' # Chỉ định phiên bản iOS tối thiểu
 end
