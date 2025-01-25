@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'MyStoryboardSDK'
+  s.name         = 'arrow_framework'
   s.version      = '1.0.0' # Đặt phiên bản SDK
   s.summary      = 'A simple iOS SDK with a Storyboard-based UI.'
   s.description  = <<-DESC
