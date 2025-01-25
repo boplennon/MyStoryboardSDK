@@ -8,45 +8,9 @@
 		<data>
 		jK0EDRj0eBHk3PvPesk/aYSrB48=
 		</data>
-		<key>HomeUI.storyboardc/Info.plist</key>
-		<data>
-		U4wu67+bzoP+1G2748LCd5VX26A=
-		</data>
-		<key>HomeUI.storyboardc/SimpleViewController.nib</key>
-		<data>
-		vmH0w7m9CJgfnDneGwn2v7d50Qc=
-		</data>
-		<key>HomeUI.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<data>
-		6fxOUwYTIF+V9kgLvsVm5B3e4/Q=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		XlI9bTJCindT/3fZt8F9RRLmL7k=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		CpLZs/MzldC0UL21kHlg0tVL7Rg=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		BHcbeDVX51W+aOmjo8s9XMiggns=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		ysfnPU09O05UrgEhTK7jUY7uHDE=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		MUsH/NuCRT9bDX6YR6w7NzYyIo8=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		ysfnPU09O05UrgEhTK7jUY7uHDE=
-		</data>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		+Bd35zRLBSPAjp+LBpP2JlVhZZk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -60,69 +24,6 @@
 			<key>hash2</key>
 			<data>
 			g2xkWzZUFrIHi4HavAbOsWQ18gtF7lcJQjc4xGHc7d4=
-			</data>
-		</dict>
-		<key>HomeUI.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EdCrTIh0WhMAw36zokd33DFhd9ywAut33HshNYpM/W0=
-			</data>
-		</dict>
-		<key>HomeUI.storyboardc/SimpleViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aCKk0+mGGSgH3ux8/xbKJdn5vb5OMCC1gqBmlcx9usA=
-			</data>
-		</dict>
-		<key>HomeUI.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CM/viIF+DpAcOta9gYJeB2g+yv4aSj83Ljj4FacSZH8=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vqN5Tkw0P91h6poRudYTHmgQ++xnwoNYpfnXCoDkXAE=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oq3gbWV7tUfDnZUeN8EkpW58B+2YymgnhhXtQZieAXQ=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sBIhiMd4mWODPUjmlNYepxghMp2XfMcgYewprk7lxyU=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ozuGwkEQ795dSPlGntMPjQ4cS95YfBX/BhEjwxvASug=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sBIhiMd4mWODPUjmlNYepxghMp2XfMcgYewprk7lxyU=
-			</data>
-		</dict>
-		<key>Modules/arrow_framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oS31LuKMOzVj/WknroczWYNd1E2LSXfYJ17SPQv30Ns=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
