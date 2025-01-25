@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   DESC
 
   s.homepage     = 'https://github.com/boplennon/MyStoryboardSDK'
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  # s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Your Name' => 'your-email@example.com' }
   s.source       = { :git => 'https://github.com/boplennon/MyStoryboardSDK.git', :tag => s.version }
 
